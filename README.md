@@ -1,75 +1,33 @@
-<header>
+# 💼 حاسبة نهاية الخدمة في السعودية – احسب مستحقاتك بدقة
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+هل تعرف كم تستحق عند انتهاء عقد عملك؟ كثير من الموظفين لا يدركون حقوقهم المالية بدقة، لكن الآن أصبح بإمكانك معرفة ذلك بسهولة من خلال **حاسبة نهاية الخدمة**.
 
-# GitHub Pages
+تم تصميم حاسبة نهاية الخدمة لمساعدتك في حساب المكافأة التي تستحقها بناءً على نظام العمل السعودي، سواء كنت تعمل في القطاع الحكومي أو الخاص، وبغض النظر عن نوع عقدك (دوام كامل أو جزئي).
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## ✅ ما الذي تقدمه لك حاسبة نهاية الخدمة؟
 
-</header>
+- حساب دقيق لمكافأة نهاية الخدمة حسب عدد سنوات العمل  
+- تأخذ في الاعتبار نوع العقد (محدد أو غير محدد)  
+- تراعي سبب انتهاء العلاقة العمالية (استقالة، فصل، انتهاء عقد)  
+- سهلة الاستخدام وباللغة العربية بالكامل  
+- توفر نتائج فورية تساعدك في التخطيط لمستقبلك المالي
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
+## 🧾 كيف تستخدم الحاسبة؟
 
-## Welcome
+كل ما عليك هو إدخال:
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+- تاريخ بداية العمل  
+- تاريخ انتهاء العمل  
+- الراتب الشهري الأخير  
+- سبب ترك العمل
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+وسـتظهر لك المكافأة التي تستحقها بدقة حسب النظام المعتمد في السعودية.
 
-In this course, you will:
+> 💡 **نصيحة:** استخدم هذه الأداة قبل أي خطوة رسمية لتكون على دراية كاملة بحقوقك وتخطط جيدًا لمستقبلك.
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
-
-### How to start this course
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+📌 لا تترك مستحقاتك غامضة، وابدأ الآن باستخدام **حاسبة نهاية الخدمة** لتأمين حقوقك بكل شفافية.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+### 💤 هل تعاني من اضطراب في النوم؟
+جرب الآن [حاسبة النوم](https://xn--mgbcdn5a.com/) لمساعدتك على تحديد أفضل أوقات النوم والاستيقاظ حسب دورة نومك الطبيعية!
